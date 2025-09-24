@@ -41,7 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="negocioMarca.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\accesoDatos\accesoDatos.csproj">
+      <Project>{6b2eb61a-0a87-4aa5-8c1f-f17151d8c753}</Project>
+      <Name>accesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\dominio\dominio.csproj">
+      <Project>{2a5c336d-fa6d-4169-9ea6-96c01570031a}</Project>
+      <Name>dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

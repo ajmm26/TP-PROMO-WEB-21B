@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|c:\\users\\raull\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\negocio\\negociomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|solutionrelative:negocio\\negociomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|c:\\users\\raull\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|c:\\users\\raull\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|c:\\users\\raull\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B2EB61A-0A87-4AA5-8C1F-F17151D8C753}|accesoDatos\\accesoDatos.csproj|c:\\users\\raull\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B2EB61A-0A87-4AA5-8C1F-F17151D8C753}|accesoDatos\\accesoDatos.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B2EB61A-0A87-4AA5-8C1F-F17151D8C753}|accesoDatos\\accesoDatos.csproj|solutionrelative:accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,25 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "negocioMarca.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioMarca.cs",
+              "RelativeDocumentMoniker": "negocio\\negocioMarca.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioMarca.cs",
+              "RelativeToolTip": "negocio\\negocioMarca.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:59:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Marca.cs",
+              "RelativeToolTip": "dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:57:17.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Categoria.cs",
+              "RelativeToolTip": "dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:26:55.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "dominio\\Articulo.cs",
               "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Articulo.cs",
               "RelativeToolTip": "dominio\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T23:54:02.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesoDatos\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "accesoDatos\\AccesoDatos.cs",
               "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesoDatos\\AccesoDatos.cs",
               "RelativeToolTip": "accesoDatos\\AccesoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T23:53:06.959Z",
               "EditorCaption": ""

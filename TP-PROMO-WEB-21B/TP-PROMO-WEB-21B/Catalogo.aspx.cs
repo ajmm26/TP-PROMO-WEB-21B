@@ -18,5 +18,6 @@ namespace TP_PROMO_WEB_21B
             dgvArticulos.DataSource = negocio.listar();
             dgvArticulos.DataBind();
         }
+        
     }
 }

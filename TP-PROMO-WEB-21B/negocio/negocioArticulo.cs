@@ -47,7 +47,7 @@ namespace negocio
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("INSERT INTO ARTICULOS (Codigo, Nombre, Descripcion, Precio");
+                datos.setearConsulta("INSERT INTO ARTICULOS (Codigo, Nombre, Descripcion, Precio) VALUES (@Codigo, @Nombre, @Descripcion, @Precio)");
                 datos.agregarParametros("@Codigo",nuevo.Codigo);
                 datos.agregarParametros("@Nombre",nuevo.Nombre);
                 datos.agregarParametros("@Descripcion",nuevo.Descripcion);
@@ -63,6 +63,49 @@ namespace negocio
             finally
             {
                 datos.cerrarConexion();
+            }
+        }
+
+        public void modificar(Articulo aModificar)
+        {
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+                datos.setearConsulta("UPDATE ARTICULOS SET Codigo = @Codigo, Nombre = @Nombre, Descripcion = @Descripcion, Preccio=@Precio WHERE Id = @Id");
+                datos.agregarParametros("@Codigo", aModificar.Codigo);
+                datos.agregarParametros("@Nombre", aModificar.Nombre);
+                datos.agregarParametros("@Descripcion", aModificar.Descripcion);
+                datos.agregarParametros("@Precio", aModificar.Precio);
+                datos.ejecutarAccion();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+            }
+        }
+        public void eliminar(int Id)
+        {
+            AccesoDatos datosArticulo = new AccesoDatos();
+            try
+            {
+                datosArticulo.setearConsulta("DELETE FROM ARTICULOS WHERE Id = @Id");
+                datosArticulo.agregarParametros("@Id", Id );
+                datosArticulo.ejecutarAccion();
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+            finally
+            {
+                datosArticulo.cerrarConexion();
             }
         }
     }

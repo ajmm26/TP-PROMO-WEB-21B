@@ -1,93 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\",
+  "WorkspaceRootPath": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|c:\\users\\ale\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\tp-promo-web-21b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|c:\\users\\ale\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\tp-promo-web-21b\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|c:\\users\\ale\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\tp-promo-web-21b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\webarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\promomaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\promomaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|c:\\users\\ale\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\negocio\\negociovoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|solutionrelative:negocio\\negociovoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negociomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|solutionrelative:negocio\\negociomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|c:\\users\\raull\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\negocio\\negocioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|solutionrelative:negocio\\negocioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|c:\\users\\ale\\desktop\\tp-promo-web-21b\\tp-promo-web-21b\\tp-promo-web-21b\\scripts\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\scripts\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\webarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\catalogo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\catalogo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\webarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\catalogo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\catalogo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\catalogo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\promomaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\promomaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\catalogo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\catalogo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negociomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|solutionrelative:negocio\\negociomarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\scripts\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\scripts\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negociovoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|solutionrelative:negocio\\negociovoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\tp-promo-web-21b\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{159C4DD2-E9C4-4A11-875C-0866B3A75D04}|TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B.csproj|solutionrelative:tp-promo-web-21b\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{1B9D4897-D987-437D-A796-E80A905EFB42}|negocio\\negocio.csproj|solutionrelative:negocio\\content\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B2EB61A-0A87-4AA5-8C1F-F17151D8C753}|accesoDatos\\accesoDatos.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B2EB61A-0A87-4AA5-8C1F-F17151D8C753}|accesoDatos\\accesoDatos.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B2EB61A-0A87-4AA5-8C1F-F17151D8C753}|accesoDatos\\accesoDatos.csproj|solutionrelative:accesodatos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A5C336D-FA6D-4169-9EA6-96C01570031A}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -98,293 +102,288 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WebForm1.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Catalogo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T01:14:50.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T20:12:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "webArticulo.aspx",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\webArticulo.aspx",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\webArticulo.aspx",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\webArticulo.aspx",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\webArticulo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T21:05:14.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Catalogo.aspx",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Catalogo.aspx",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\Catalogo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T20:07:55.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-26T00:19:53.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "promoMaster.Master",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\promoMaster.Master",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\promoMaster.Master",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\promoMaster.Master",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\promoMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T18:14:55.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "negocioMarca.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioMarca.cs",
+              "RelativeDocumentMoniker": "negocio\\negocioMarca.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioMarca.cs",
+              "RelativeToolTip": "negocio\\negocioMarca.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:59:44.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T00:50:55.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "negocioVoucher.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioVoucher.cs",
-              "RelativeDocumentMoniker": "negocio\\negocioVoucher.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioVoucher.cs",
-              "RelativeToolTip": "negocio\\negocioVoucher.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T00:29:38.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "JavaScript.js",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\Scripts\\JavaScript.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-09-26T00:19:53.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Catalogo.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\Catalogo.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T20:12:13.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Catalogo.aspx",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Catalogo.aspx",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Catalogo.aspx",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\Catalogo.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-25T20:07:55.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "negocioArticulo.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioArticulo.cs",
               "RelativeDocumentMoniker": "negocio\\negocioArticulo.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioArticulo.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioArticulo.cs",
               "RelativeToolTip": "negocio\\negocioArticulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T19:43:41.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx.cs",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "webArticulo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\webArticulo.aspx.cs",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\webArticulo.aspx.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\webArticulo.aspx.cs",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\webArticulo.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T21:55:12.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T22:12:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T00:50:55.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Default.aspx",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-25T20:10:05.827Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "promoMaster.Master",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\promoMaster.Master",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\promoMaster.Master",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\promoMaster.Master",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\promoMaster.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-25T18:14:55.225Z",
-              "EditorCaption": ""
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx.cs",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:55:12.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "negocioVoucher.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioVoucher.cs",
+              "RelativeDocumentMoniker": "negocio\\negocioVoucher.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioVoucher.cs",
+              "RelativeToolTip": "negocio\\negocioVoucher.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T00:29:38.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "StyleSheet1.css",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Content\\StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Content\\StyleSheet1.css",
               "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Content\\StyleSheet1.css",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Content\\StyleSheet1.css",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Content\\StyleSheet1.css",
               "RelativeToolTip": "TP-PROMO-WEB-21B\\Content\\StyleSheet1.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-25T02:21:09.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T02:21:09.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "WebForm1.aspx",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx",
               "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\WebForm1.aspx",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx",
               "RelativeToolTip": "TP-PROMO-WEB-21B\\WebForm1.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-25T01:22:10.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T01:22:10.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "webArticulo.aspx",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\webArticulo.aspx",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\webArticulo.aspx",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\webArticulo.aspx",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\webArticulo.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-25T21:05:14.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Stylesheet1.css",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\Content\\Stylesheet1.css",
-              "RelativeDocumentMoniker": "negocio\\Content\\Stylesheet1.css",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\Content\\Stylesheet1.css",
-              "RelativeToolTip": "negocio\\Content\\Stylesheet1.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-25T02:15:44.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Imagen.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Imagen.cs",
-              "RelativeDocumentMoniker": "dominio\\Imagen.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Imagen.cs",
-              "RelativeToolTip": "dominio\\Imagen.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "WebForm1.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
+              "RelativeToolTip": "TP-PROMO-WEB-21B\\WebForm1.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T00:21:08.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Cliente.cs",
-              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Cliente.cs",
-              "RelativeToolTip": "dominio\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T00:07:58.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Voucher.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Voucher.cs",
-              "RelativeDocumentMoniker": "dominio\\Voucher.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Voucher.cs",
-              "RelativeToolTip": "dominio\\Voucher.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T23:52:25.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "negocioMarca.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioMarca.cs",
-              "RelativeDocumentMoniker": "negocio\\negocioMarca.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\negocioMarca.cs",
-              "RelativeToolTip": "negocio\\negocioMarca.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:59:44.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Articulo.cs",
-              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Articulo.cs",
-              "RelativeToolTip": "dominio\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T23:54:02.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx",
-              "RelativeDocumentMoniker": "TP-PROMO-WEB-21B\\Default.aspx",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\Default.aspx",
-              "RelativeToolTip": "TP-PROMO-WEB-21B\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-25T20:10:05.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Marca.cs",
-              "RelativeDocumentMoniker": "dominio\\Marca.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Marca.cs",
-              "RelativeToolTip": "dominio\\Marca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:57:17.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Categoria.cs",
-              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Categoria.cs",
-              "RelativeToolTip": "dominio\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T22:26:55.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T01:14:50.313Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Stylesheet1.css",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\Content\\Stylesheet1.css",
+              "RelativeDocumentMoniker": "negocio\\Content\\Stylesheet1.css",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\negocio\\Content\\Stylesheet1.css",
+              "RelativeToolTip": "negocio\\Content\\Stylesheet1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-25T02:15:44.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Imagen.cs",
+              "RelativeToolTip": "dominio\\Imagen.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:21:08.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Cliente.cs",
+              "RelativeToolTip": "dominio\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:07:58.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Voucher.cs",
+              "RelativeDocumentMoniker": "dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Voucher.cs",
+              "RelativeToolTip": "dominio\\Voucher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:52:25.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Articulo.cs",
+              "RelativeToolTip": "dominio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:54:02.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Marca.cs",
+              "RelativeToolTip": "dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:57:17.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\dominio\\Categoria.cs",
+              "RelativeToolTip": "dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:26:55.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesoDatos\\AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesoDatos\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "accesoDatos\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\Ale\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesoDatos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\raull\\Desktop\\TP-PROMO-WEB-21B\\TP-PROMO-WEB-21B\\accesoDatos\\AccesoDatos.cs",
               "RelativeToolTip": "accesoDatos\\AccesoDatos.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T23:53:06.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T23:53:06.959Z"
             }
           ]
         }

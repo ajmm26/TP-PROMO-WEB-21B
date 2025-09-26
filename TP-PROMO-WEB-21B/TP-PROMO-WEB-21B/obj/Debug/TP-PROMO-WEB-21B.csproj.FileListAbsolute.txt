@@ -86,3 +86,9 @@ C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\ac
 C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\dominio.pdb
 C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\negocio.pdb
 C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\accesoDatos.pdb
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\dominio.dll
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\negocio.dll
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\accesoDatos.dll
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\dominio.pdb
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\negocio.pdb
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\bin\accesoDatos.pdb

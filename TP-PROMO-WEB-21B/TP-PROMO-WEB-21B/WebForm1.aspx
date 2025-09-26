@@ -6,7 +6,8 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link href="Content/StyleSheet1.css" rel="stylesheet" />
-     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous"/>
     <title></title>
 </head>
 <body>
@@ -37,13 +38,14 @@
 </nav>
       <main>
           <div id="div-voucher">
-              <input type="text" placeholder="xxxxxxxx" id="input-voucher"/>
-    <button class="btn btn-primary" type="submit" id="button-voucher">Canjear</button>
+             <asp:TextBox ID="input_voucher" runat="server" CssClass="form-control" placeholder="xxxxxxxx" />
+    <asp:button class="btn btn-primary" runat="server" type="submit" id="button_voucher" OnClick="button_voucher_Click"></asp:button>
 </div>
           
 
 
       </main>
     </form>
+    <script src="Scripts/JavaScript.js"></script>
 </body>
 </html>

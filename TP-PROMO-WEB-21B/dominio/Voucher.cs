@@ -10,13 +10,13 @@ namespace dominio
     {
         string codigo;
         int idCliente;
-        DateTime DateTime;
+      //  DateTime DateTime;
         int idArticulo;
 
 
         public string Codigo { get => codigo; set => codigo = value; }
         public int IdCliente { get => idCliente; set => idCliente = value; }
-        public DateTime DateTime1 { get => DateTime; set => DateTime = value; }
+        //public DateTime DateTime1 { get => DateTime; set => DateTime = value; }
         public int IdArticulo { get => idArticulo; set => idArticulo = value; }
 
     }

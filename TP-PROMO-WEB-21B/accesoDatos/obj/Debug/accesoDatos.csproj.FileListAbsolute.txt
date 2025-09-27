@@ -4,3 +4,9 @@ C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\a
 C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\accesoDatos.csproj.CoreCompileInputs.cache
 C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\accesoDatos.dll
 C:\Users\raull\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\accesoDatos.pdb
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\bin\Debug\accesoDatos.dll
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\bin\Debug\accesoDatos.pdb
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\accesoDatos.csproj.AssemblyReference.cache
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\accesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\accesoDatos.dll
+C:\Users\Ale\Desktop\TP-PROMO-WEB-21B\TP-PROMO-WEB-21B\accesoDatos\obj\Debug\accesoDatos.pdb

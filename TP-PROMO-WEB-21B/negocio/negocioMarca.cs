@@ -11,7 +11,7 @@ namespace negocio
 {
     public class negocioMarca
     {
-        List<Marca> Listar()
+       public List<Marca> Listar()
         {
             List<Marca> lista = new List<Marca>();
             AccesoDatos datos = new AccesoDatos();
@@ -34,6 +34,10 @@ namespace negocio
             {
 
                 throw ex;
+            }
+            finally
+            {
+                datos.cerrarConexion();
             }
         }
 

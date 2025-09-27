@@ -37,11 +37,43 @@
   </div>
 </nav>
       <main>
-          <div id="div-voucher">
-             <asp:TextBox ID="input_voucher" runat="server" CssClass="form-control" placeholder="xxxxxxxx" />
-    <asp:button class="btn btn-primary" runat="server" type="submit" id="button_voucher" OnClick="button_voucher_Click"></asp:button>
+        <div class="container mt-5">
+    <h2 class="text-center mb-4">Ingresa el voucher</h2>
+
+    <div class="d-flex justify-content-center gap-2">
+        <asp:TextBox 
+            ID="input_voucher" 
+            runat="server" 
+            CssClass="form-control w-50" 
+            placeholder="x x x x x x x x" />
+
+        <asp:Button 
+            ID="btnCanjear" 
+            runat="server" 
+            Text="Canjear" 
+            CssClass="btn btn-primary" 
+            OnClick="btnCanjear_Click1" />
+    </div>
+
+    <div class="text-center mt-2">
+        <asp:Label 
+            ID="txtlabelError" 
+            runat="server" 
+            CssClass="text-danger fw-bold" />
+    </div>
 </div>
           
+          <div class="row">
+    <div class="col">
+        <asp:GridView ID="dgVoucher" CssClass="table table-dark table-bordered" runat="server" AutoGenerateColumns="false">
+            <Columns>
+                <asp:BoundField HeaderText="Codigo" DataField="Codigo" />
+                 <asp:BoundField HeaderText="IdCliente" DataField="idCliente" />
+                 <asp:BoundField HeaderText="IdArticulo" DataField="idArticulo" />
+            </Columns>
+        </asp:GridView>
+    </div>
+</div>
 
 
       </main>

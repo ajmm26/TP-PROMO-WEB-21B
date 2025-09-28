@@ -4,6 +4,8 @@ using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
@@ -38,11 +40,14 @@ namespace TP_PROMO_WEB_21B
             }
             else
             {
-                // txtlabelError.Visible = false;
-                if (vouchersCodigo(value))
-                {
-                    Response.Redirect("WebForm2.aspx", true);
-                }
+
+
+              
+                 txtlabelError.Visible = false;
+                 if (vouchersCodigo(value))
+                  {
+                      Response.Redirect("WebForm2.aspx", true);
+                  }
             }
 
         }
@@ -52,29 +57,29 @@ namespace TP_PROMO_WEB_21B
         {
             negocioVoucher negocio = new negocioVoucher();
             List<Voucher> vouchers= negocio.listar();
+            
            foreach (Voucher voucher in vouchers)
             {
-                if (voucher.Codigo == value)
-                {
-                          
-                    txtlabelError.BorderColor = System.Drawing.Color.Green;
-                    txtlabelError.BackColor = System.Drawing.Color.LightGreen; // Fondo
-                    mensaje("Tu Voucher es valido", System.Drawing.Color.Black);
+                
+                  if (voucher.Codigo.ToUpper().Trim() == value.ToUpper())
+                 {
 
-
+                     txtlabelError.BorderColor = System.Drawing.Color.Green;
+                     txtlabelError.BackColor = System.Drawing.Color.LightGreen; // Fondo
+                     mensaje("Voucher  valido", System.Drawing.Color.Black);
                     return true;
                 }
                 else
                 {
-                    if (value != voucher.Codigo)
+                    if (voucher.Codigo.ToUpper().Trim() != value.ToUpper())
                     {
                         txtlabelError.BorderColor = System.Drawing.Color.Red;
                         txtlabelError.BackColor = System.Drawing.Color.LightPink; // Fondo
-                        mensaje("Tu voucher es invalido", System.Drawing.Color.Red);
-                        return false;
+                        mensaje("Voucher invalido", System.Drawing.Color.Red);
+                       
                     }
                 }
-                
+
             }
             return false;
         }
@@ -87,6 +92,7 @@ namespace TP_PROMO_WEB_21B
             txtlabelError.Width = 350;
             txtlabelError.ForeColor = color;   // <-- color dinámico
             txtlabelError.Text = m;
+            txtlabelError.Visible = true;
 
         }
 

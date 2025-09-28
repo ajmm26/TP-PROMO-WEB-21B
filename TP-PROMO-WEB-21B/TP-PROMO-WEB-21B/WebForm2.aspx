@@ -11,10 +11,12 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        <h1>Premio A elegir</h1>
         <asp:panel runat="server" CssClass="d-flex flex-wrap justify-content-center" ID="contenedor">
 
         </asp:panel>
     </form>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
 

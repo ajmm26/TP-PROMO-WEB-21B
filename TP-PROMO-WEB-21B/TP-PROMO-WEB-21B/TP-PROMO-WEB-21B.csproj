@@ -93,6 +93,8 @@
     <Content Include="Scripts\JavaScript.js" />
     <Content Include="Web.config" />
     <Content Include="webArticulo.aspx" />
+    <Content Include="WebCliente.aspx" />
+    <Content Include="webDatosClientes.aspx" />
     <Content Include="WebForm1.aspx" />
     <Content Include="WebForm2.aspx" />
   </ItemGroup>
@@ -128,6 +130,20 @@
     </Compile>
     <Compile Include="webArticulo.aspx.designer.cs">
       <DependentUpon>webArticulo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebCliente.aspx.cs">
+      <DependentUpon>WebCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebCliente.aspx.designer.cs">
+      <DependentUpon>WebCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webDatosClientes.aspx.cs">
+      <DependentUpon>webDatosClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webDatosClientes.aspx.designer.cs">
+      <DependentUpon>webDatosClientes.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>

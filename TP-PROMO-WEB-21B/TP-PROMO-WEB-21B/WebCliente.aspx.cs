@@ -1,0 +1,84 @@
+﻿using negocio;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using dominio;
+
+namespace TP_PROMO_WEB_21B
+{
+    public partial class WebCliente : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btnParticipar_Click(object sender, EventArgs e)
+        {
+            string documento = txtDocumento.Text.Trim();
+            negocioCliente negocio = new negocioCliente();
+            Cliente existente = negocio.buscarClientePorDocumento(documento);
+            if (existente != null)
+            {
+                Response.Redirect("webDatosClientes.aspx");
+                return;
+            }
+
+            if (!CheckBoxAcepto.Checked)
+            {
+                lblAcepto.Text = "Debés aceptar los términos y condiciones para continuar.";
+                lblAcepto.ForeColor = System.Drawing.Color.Red;
+                return;
+            }
+            Cliente nuevo = new Cliente();
+            nuevo.Documento = txtDocumento.Text;
+            nuevo.Nombre = txtNombre.Text;
+            nuevo.Apellido = txtApellido.Text;
+            nuevo.Email = txtEmail.Text;
+            nuevo.Direccion = txtDireccion.Text;
+            nuevo.Ciudad = txtCiudad.Text;
+            nuevo.Cp = int.Parse(txtCp.Text);
+
+            negocio.agregar(nuevo);
+
+            Response.Redirect("webDatosClientes.aspx");
+
+        }
+
+        protected void txtDocumento_TextChanged(object sender, EventArgs e)
+        {
+            string documento = txtDocumento.Text.Trim();
+            negocioCliente negocio = new negocioCliente();
+            Cliente cliente = negocio.buscarClientePorDocumento(documento);
+            if (cliente != null)
+            {
+                txtNombre.Text = cliente.Nombre;
+                txtApellido.Text = cliente.Apellido;
+                txtEmail.Text = cliente.Email;
+                txtDireccion.Text = cliente.Direccion;
+                txtCiudad.Text = cliente.Ciudad;
+                txtCp.Text = cliente.Cp.ToString();
+                lblMensaje.Text = "Ya estas registrado.";
+                lblMensaje.ForeColor = System.Drawing.Color.Green;
+
+
+            }
+            else
+            {
+                txtNombre.Text = "";
+                txtApellido.Text = "";
+                txtEmail.Text = "";
+                txtDireccion.Text = "";
+                txtCiudad.Text = "";
+                txtCp.Text = "";
+                lblMensaje.Text = "Documento no registrado.  completa los datos.";
+                lblMensaje.ForeColor = System.Drawing.Color.OrangeRed;
+
+
+            }
+        }
+    }
+}

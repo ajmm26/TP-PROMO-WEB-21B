@@ -46,6 +46,7 @@ namespace TP_PROMO_WEB_21B
                  txtlabelError.Visible = false;
                  if (vouchersCodigo(value))
                   {
+                    Session.Add("voucher", value);
                       Response.Redirect("WebForm2.aspx", true);
                   }
             }

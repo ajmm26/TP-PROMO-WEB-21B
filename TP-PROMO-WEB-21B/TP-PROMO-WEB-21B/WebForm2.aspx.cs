@@ -2,6 +2,7 @@
 using negocio;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -68,9 +69,9 @@ namespace TP_PROMO_WEB_21B
                 panelTxt.Controls.Add(nombreProducto);
                 panelTxt.Attributes.Add("padding","10px");
                 ////
-               
+     
                 panelTxt.Controls.Add(descripcionProducto);
-                panelTxt.Controls.Add(getButtonChoice());  
+                panelTxt.Controls.Add(getButtonChoice(i));  
                 panelContenedorCarrusel.Controls.Add(bnext);
                 panelContenedorCarrusel.Controls.Add(bantes);
                 panelContenedorCarrusel.Controls.Add(panelCarrusel);
@@ -176,19 +177,43 @@ namespace TP_PROMO_WEB_21B
             iconPrev.Attributes["aria-hidden"] = "true";
             return iconPrev;
         }
-
-        protected HtmlGenericControl getButtonChoice()
+        protected HtmlButton getButtonChoice(int i)
         {
-
-
-            HtmlGenericControl buttonChoice = new HtmlGenericControl("button");
-            buttonChoice.Attributes["type"] = "button";
-            buttonChoice.Attributes["class"] = "btn btn-primary mx-auto d-block"; 
-            buttonChoice.Attributes["style"] = "width: 90px;";
-            buttonChoice.Attributes["style"] = "margin: 10px";
+            HtmlButton buttonChoice = new HtmlButton();
+            buttonChoice.ID = "btnElegir" + i.ToString();
+            buttonChoice.Attributes["class"] = "btn btn-primary mx-auto d-block";
+            buttonChoice.Style["width"] = "90px";
+            buttonChoice.Style["margin"] = "10px";
             buttonChoice.InnerText = "Elegir";
+            buttonChoice.Attributes["value"] = i.ToString(); // set value
+            buttonChoice.ServerClick += recuperarIDProducto;
             return buttonChoice;
-        
         }
+
+        protected void recuperarIDProducto(object sender, EventArgs e)
+        {
+            HtmlButton boton = (HtmlButton)sender;
+            string idProducto = boton.Attributes["value"];
+            Session.Add("idProducto",idProducto);
+            string voucher = (string)Session["voucher"];
+            Label lblprod = new Label();
+            lblHidden.CssClass = "text-center fw-bold"; // centrado + negrita opcional
+            if (string.IsNullOrWhiteSpace(voucher))
+            {
+                lblHidden.Text = "Error al cargar Voucher, será redirigido para que lo introduzca nuevamente";
+                lblHidden.ForeColor = System.Drawing.Color.Red;
+                lblHidden.BackColor = System.Drawing.Color.LightPink; // Fondo
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "redir",
+                    "setTimeout(function(){ window.location='WebForm1.aspx'; }, 3000);", true);
+            }
+            else
+            {
+                lblHidden.Text = "Producto elegido: " + idProducto + " por el voucher: " + voucher;
+                ScriptManager.RegisterStartupScript(this, this.GetType(), "redir",
+                    "setTimeout(function(){ window.location='WebCliente.aspx'; }, 3000);", true);
+            }
+        }
+
+
     }
 }

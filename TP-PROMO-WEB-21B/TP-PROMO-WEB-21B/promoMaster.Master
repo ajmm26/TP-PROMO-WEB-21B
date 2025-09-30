@@ -24,7 +24,7 @@
         <a class="nav-link active" aria-current="page" href="Catalogo.aspx">Catalogo</a>
         <a class="nav-link active" aria-current="page" href="webArticulo.aspx">Articulo</a>
         <a class="nav-link" href="WebCliente.aspx">Cliente</a>
-        <a class="nav-link" href="#">Promo</a>
+        <a class="nav-link" href="WebForm1.aspx">Promo</a>
         <a class="nav-link disabled" aria-disabled="true">Disabled</a>
       </div>
     </div>

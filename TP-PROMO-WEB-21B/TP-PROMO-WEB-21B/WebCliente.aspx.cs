@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using dominio;
+using service;
 
 namespace TP_PROMO_WEB_21B
 {
@@ -21,11 +22,7 @@ namespace TP_PROMO_WEB_21B
             string documento = txtDocumento.Text.Trim();
             negocioCliente negocio = new negocioCliente();
             Cliente existente = negocio.buscarClientePorDocumento(documento);
-            if (existente != null)
-            {
-                Response.Redirect("webDatosClientes.aspx");
-                return;
-            }
+            
 
             if (!CheckBoxAcepto.Checked)
             {
@@ -33,16 +30,30 @@ namespace TP_PROMO_WEB_21B
                 lblAcepto.ForeColor = System.Drawing.Color.Red;
                 return;
             }
-            Cliente nuevo = new Cliente();
-            nuevo.Documento = txtDocumento.Text;
-            nuevo.Nombre = txtNombre.Text;
-            nuevo.Apellido = txtApellido.Text;
-            nuevo.Email = txtEmail.Text;
-            nuevo.Direccion = txtDireccion.Text;
-            nuevo.Ciudad = txtCiudad.Text;
-            nuevo.Cp = int.Parse(txtCp.Text);
+            emailService emailService = new emailService();
+            emailService.armarCorreo(txtEmail.Text);
+            try
+            {
+                emailService.enviarMail();
+            }
+            catch (Exception ex)
+            {
 
-            negocio.agregar(nuevo);
+                Session.Add("error", ex);
+            }
+            if (existente == null)
+            {
+                Cliente nuevo = new Cliente();
+                nuevo.Documento = txtDocumento.Text;
+                nuevo.Nombre = txtNombre.Text;
+                nuevo.Apellido = txtApellido.Text;
+                nuevo.Email = txtEmail.Text;
+                nuevo.Direccion = txtDireccion.Text;
+                nuevo.Ciudad = txtCiudad.Text;
+                nuevo.Cp = int.Parse(txtCp.Text);
+
+                negocio.agregar(nuevo);
+            }
 
             Response.Redirect("webDatosClientes.aspx");
 

@@ -28,7 +28,13 @@ namespace service
             email.To.Add(emailDestino);
             email.Subject = "Asunto";
             email.IsBodyHtml = true;
-            email.Body = "<h1> Gracias por participar </h1> <br> Te esperamos para la proxima compra fin ...";
+            email.Body = @"<h1>&#10004;</h1>
+                           <h1>MUCHAS GRACIAS!</h1>
+                           <h2>TU REGISTRO HA SIDO EXITOSO</h2>
+                           <hr />
+                           <h4>Ya participas del sorteo del producto que elegiste</h4>
+                           <h6>Pronto estaremos comunicando los ganadores</h6>
+                            ";
 
         }
         public void enviarMail()

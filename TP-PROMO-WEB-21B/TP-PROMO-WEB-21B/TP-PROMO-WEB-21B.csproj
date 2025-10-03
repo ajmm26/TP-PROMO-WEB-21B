@@ -95,8 +95,11 @@
     <Content Include="webArticulo.aspx" />
     <Content Include="WebCliente.aspx" />
     <Content Include="webDatosClientes.aspx" />
+    <Content Include="webError.aspx" />
     <Content Include="WebForm1.aspx" />
     <Content Include="WebForm2.aspx" />
+    <Content Include="webRegistroExitoso.aspx" />
+    <Content Include="webSeleccionDePremio.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Catalogo.aspx.cs">
@@ -145,6 +148,13 @@
     <Compile Include="webDatosClientes.aspx.designer.cs">
       <DependentUpon>webDatosClientes.aspx</DependentUpon>
     </Compile>
+    <Compile Include="webError.aspx.cs">
+      <DependentUpon>webError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webError.aspx.designer.cs">
+      <DependentUpon>webError.aspx</DependentUpon>
+    </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -158,6 +168,20 @@
     </Compile>
     <Compile Include="WebForm2.aspx.designer.cs">
       <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webRegistroExitoso.aspx.cs">
+      <DependentUpon>webRegistroExitoso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webRegistroExitoso.aspx.designer.cs">
+      <DependentUpon>webRegistroExitoso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="webSeleccionDePremio.aspx.cs">
+      <DependentUpon>webSeleccionDePremio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="webSeleccionDePremio.aspx.designer.cs">
+      <DependentUpon>webSeleccionDePremio.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

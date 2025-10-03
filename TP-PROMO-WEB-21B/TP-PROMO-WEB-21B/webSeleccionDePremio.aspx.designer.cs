@@ -11,43 +11,25 @@ namespace TP_PROMO_WEB_21B
 {
 
 
-    public partial class Default
+    public partial class webSeleccionDePremio
     {
 
         /// <summary>
-        /// Control input_voucher.
+        /// Control lblHidden.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox input_voucher;
+        protected global::System.Web.UI.WebControls.Label lblHidden;
 
         /// <summary>
-        /// Control btnCanjear.
+        /// Control contenedor.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnCanjear;
-
-        /// <summary>
-        /// Control txtlabelError.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label txtlabelError;
-
-        /// <summary>
-        /// Control dgVoucher.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView dgVoucher;
+        protected global::System.Web.UI.WebControls.Panel contenedor;
     }
 }

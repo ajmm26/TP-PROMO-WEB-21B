@@ -55,7 +55,7 @@ namespace TP_PROMO_WEB_21B
                 negocio.agregar(nuevo);
             }
 
-            Response.Redirect("webDatosClientes.aspx");
+            Response.Redirect("webRegistroExitoso.aspx");
 
         }
 

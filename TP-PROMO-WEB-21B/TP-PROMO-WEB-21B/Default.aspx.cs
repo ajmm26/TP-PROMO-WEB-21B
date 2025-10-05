@@ -59,11 +59,19 @@ namespace TP_PROMO_WEB_21B
 
                 if (voucher.Codigo.ToUpper().Trim() == value.ToUpper())
                 {
-
-                    txtlabelError.BorderColor = System.Drawing.Color.Green;
-                    txtlabelError.BackColor = System.Drawing.Color.LightGreen; // Fondo
-                    mensaje("Voucher  valido", System.Drawing.Color.Black);
-                    return true;
+                    if (voucher.IdCliente != 0)
+                    {
+                        txtlabelError.BorderColor = System.Drawing.Color.Red;
+                        txtlabelError.BackColor = System.Drawing.Color.LightPink; // Fondo
+                        mensaje("Voucher usado", System.Drawing.Color.Red);
+                    }
+                    else
+                    {
+                        txtlabelError.BorderColor = System.Drawing.Color.Green;
+                        txtlabelError.BackColor = System.Drawing.Color.LightGreen; // Fondo
+                        mensaje("Voucher  valido", System.Drawing.Color.Black);
+                        return true;
+                    }
                 }
                 else
                 {
@@ -79,6 +87,7 @@ namespace TP_PROMO_WEB_21B
             }
             return false;
         }
+
 
 
         protected void mensaje(string m, System.Drawing.Color color)

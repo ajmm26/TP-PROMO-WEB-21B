@@ -44,7 +44,8 @@ namespace negocio
         }
 
 
-        public bool updateVoucher(string date, string codigoVoucher, int idCliente, int idArticulo)
+        /*public bool updateVoucher(string date, string codigoVoucher, int idCliente, int idArticulo)*/
+        public bool updateVoucher(DateTime date, string codigoVoucher, int idCliente, int idArticulo)
         {
 
             AccesoDatos datos = new AccesoDatos();

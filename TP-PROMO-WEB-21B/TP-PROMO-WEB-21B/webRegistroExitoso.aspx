@@ -22,6 +22,9 @@
         <hr />
         <h4>Ya participas del sorteo del producto que elegiste    </h4>
         <h6>Pronto estaremos comunicando los ganadores</h6>
+        <asp:Button ID="btnInicio" OnClick="btnInicio_Click" CssClass="btn btn-primary"  runat="server" Text="Inicio" />
+
+
     </div>
 
 </asp:Content>

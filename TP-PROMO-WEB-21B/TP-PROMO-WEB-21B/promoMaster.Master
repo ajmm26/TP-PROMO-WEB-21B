@@ -24,10 +24,6 @@
                             <a class="nav-link active" aria-current="page" href="webSeleccionDePremio.aspx">Premios</a>
                             <a class="nav-link" href="WebCliente.aspx">Cliente</a>
                             <a class="nav-link" href="webDatosClientes.aspx">Datos Cliente</a>
-                            <a class="nav-link active" aria-current="page" href="Catalogo.aspx">Catalogo</a>
-                            <a class="nav-link active" aria-current="page" href="webArticulo.aspx">Agregar Articulo</a>
-
-
                             <a class="nav-link disabled" aria-disabled="true">Disabled</a>
                         </div>
                     </div>

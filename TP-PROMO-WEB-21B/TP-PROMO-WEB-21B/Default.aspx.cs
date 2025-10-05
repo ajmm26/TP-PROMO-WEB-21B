@@ -39,15 +39,16 @@ namespace TP_PROMO_WEB_21B
 
 
 
+               
                 txtlabelError.Visible = false;
                 if (vouchersCodigo(value))
                 {
-                    Session.Add("voucher", value);
-                    DateTime fecha = DateTime.Now;
-                    string fechaFormateada = fecha.ToString("yyyy-MM-dd");
-                    Session.Add("date", fechaFormateada);
-                    Response.Redirect("WebForm2.aspx", true);
+                    Session["voucher"] = value.Trim();
+                    Session["date"] = DateTime.Now;  
+                    Response.Redirect("webSeleccionDePremio.aspx", true);
                 }
+
+
             }
 
         }

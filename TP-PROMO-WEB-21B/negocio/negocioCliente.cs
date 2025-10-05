@@ -117,12 +117,13 @@ namespace negocio
         {
             Cliente cliente = null;
             AccesoDatos datos = new AccesoDatos();
-            datos.setearConsulta("SELECT Nombre, Apellido, Email, Direccion,Ciudad, Cp FROM Clientes WHERE Documento = @Documento"); 
+            datos.setearConsulta("SELECT id,Nombre, Apellido, Email, Direccion,Ciudad, Cp FROM Clientes WHERE Documento = @Documento"); 
             datos.agregarParametros("@Documento",documento);
             datos.ejecutarLectura();
             if (datos.Lector.Read())
             {
                 cliente = new Cliente();
+                cliente.Id = (int)datos.Lector["id"];
                 cliente.Nombre = (string)datos.Lector["Nombre"];
                 cliente.Apellido = (string)datos.Lector["Apellido"];
                 cliente.Email = (string)datos.Lector["Email"];

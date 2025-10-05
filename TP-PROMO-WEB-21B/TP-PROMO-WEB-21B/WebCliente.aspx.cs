@@ -22,7 +22,7 @@ namespace TP_PROMO_WEB_21B
             string documento = txtDocumento.Text.Trim();
             negocioCliente negocio = new negocioCliente();
             Cliente existente = negocio.buscarClientePorDocumento(documento);
-            
+
 
             if (!CheckBoxAcepto.Checked)
             {
@@ -54,6 +54,28 @@ namespace TP_PROMO_WEB_21B
 
                 negocio.agregar(nuevo);
             }
+
+            int IdCliente;
+            if (existente != null)
+            {
+                IdCliente = existente.Id;
+            }
+            else
+            {
+                Cliente nuevo = negocio.buscarClientePorDocumento(documento);
+                IdCliente = nuevo.Id;
+                
+            }
+            DateTime fecha = (DateTime)Session["date"];
+            string codigoVoucher = Session["voucher"].ToString();
+            int IdArticulo = Convert.ToInt32(Session["idProducto"]);
+            Session["idCliente"] = IdCliente;
+
+            negocioVoucher vouchers = new negocioVoucher();
+            vouchers.updateVoucher(fecha, codigoVoucher, IdCliente, IdArticulo);
+           
+
+
 
             Response.Redirect("webRegistroExitoso.aspx");
 

@@ -66,7 +66,7 @@ namespace TP_PROMO_WEB_21B
                 IdCliente = nuevo.Id;
                 
             }
-            DateTime fecha = (DateTime)Session["date"];
+           string fecha = Session["date"].ToString();
             string codigoVoucher = Session["voucher"].ToString();
             int IdArticulo = Convert.ToInt32(Session["idProducto"]);
             Session["idCliente"] = IdCliente;

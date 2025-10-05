@@ -44,7 +44,9 @@ namespace TP_PROMO_WEB_21B
                 if (vouchersCodigo(value))
                 {
                     Session["voucher"] = value.Trim();
-                    Session["date"] = DateTime.Now;  
+                   DateTime fecha = DateTime.Now;
+                   string fechaFormateada = fecha.ToString("yyyy-MM-dd");
+                    Session.Add("date", fechaFormateada);
                     Response.Redirect("webSeleccionDePremio.aspx", true);
                 }
 
@@ -64,33 +66,31 @@ namespace TP_PROMO_WEB_21B
 
                 if (voucher.Codigo.ToUpper().Trim() == value.ToUpper())
                 {
-                    if (voucher.IdCliente > 0)
+                    if ((int)voucher.IdArticulo > 0 || (int)voucher.IdCliente>0)
                     {
                         txtlabelError.BorderColor = System.Drawing.Color.Red;
                         txtlabelError.BackColor = System.Drawing.Color.LightPink; // Fondo
                         mensaje("Voucher usado", System.Drawing.Color.Red);
+                        return false;
                     }
                     else
                     {
                         txtlabelError.BorderColor = System.Drawing.Color.Green;
-                        txtlabelError.BackColor = System.Drawing.Color.LightGreen; // Fondo
+                        txtlabelError.BackColor = System.Drawing.Color.LightGreen; 
                         mensaje("Voucher  valido", System.Drawing.Color.Black);
                         return true;
                     }
                 }
                 else
                 {
-                    if (voucher.Codigo.ToUpper().Trim() != value.ToUpper())
-                    {
-                        txtlabelError.BorderColor = System.Drawing.Color.Red;
-                        txtlabelError.BackColor = System.Drawing.Color.LightPink; // Fondo
-                        mensaje("Voucher invalido", System.Drawing.Color.Red);
-
-                    }
                 }
 
             }
+                        txtlabelError.BorderColor = System.Drawing.Color.Red;
+                        txtlabelError.BackColor = System.Drawing.Color.LightPink; 
+                        mensaje("Voucher invalido", System.Drawing.Color.Red);
             return false;
+                    
         }
 
 
@@ -100,7 +100,7 @@ namespace TP_PROMO_WEB_21B
             txtlabelError.BorderStyle = BorderStyle.Solid;
             txtlabelError.BorderWidth = 2;
             txtlabelError.Width = 350;
-            txtlabelError.ForeColor = color;   // <-- color dinámico
+            txtlabelError.ForeColor = color;   
             txtlabelError.Text = m;
             txtlabelError.Visible = true;
 

@@ -2,6 +2,7 @@
 using negocio;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -42,6 +43,9 @@ namespace TP_PROMO_WEB_21B
                 if (vouchersCodigo(value))
                 {
                     Session.Add("voucher", value);
+                    DateTime fecha = DateTime.Now;
+                    string fechaFormateada = fecha.ToString("yyyy-MM-dd");
+                    Session.Add("date", fechaFormateada);
                     Response.Redirect("WebForm2.aspx", true);
                 }
             }
@@ -59,7 +63,7 @@ namespace TP_PROMO_WEB_21B
 
                 if (voucher.Codigo.ToUpper().Trim() == value.ToUpper())
                 {
-                    if (voucher.IdCliente != 0)
+                    if (voucher.IdCliente > 0)
                     {
                         txtlabelError.BorderColor = System.Drawing.Color.Red;
                         txtlabelError.BackColor = System.Drawing.Color.LightPink; // Fondo

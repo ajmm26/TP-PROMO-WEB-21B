@@ -43,5 +43,33 @@ namespace negocio
             }
         }
 
+
+        public bool updateVoucher(string date, string codigoVoucher, int idCliente, int idArticulo)
+        {
+
+            AccesoDatos datos = new AccesoDatos();
+            try
+            {
+            datos.setearConsulta("Update Vouchers set fechaCanje=@date, idCliente=@idCliente, idArticulo=@idArticulo where CodigoVoucher=@codigoVoucher");
+                datos.limpiarParametros();
+                datos.agregarParametros("@date", date);
+                datos.agregarParametros("@codigoVoucher",codigoVoucher);
+                datos.agregarParametros("@idCliente", idCliente);
+                datos.agregarParametros("@idArticulo", idArticulo);
+                datos.ejecutarAccion();
+                return true;
+            }catch(Exception ex)
+            {
+
+                return false;
+            }
+            finally
+            {
+                datos.cerrarConexion();
+               
+            }
+          
+        }
+
     }
 }

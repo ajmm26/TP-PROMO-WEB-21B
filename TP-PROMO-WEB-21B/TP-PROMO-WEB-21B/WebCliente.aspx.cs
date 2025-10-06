@@ -76,7 +76,7 @@ namespace TP_PROMO_WEB_21B
            
 
 
-
+            Session.Clear();
             Response.Redirect("webRegistroExitoso.aspx");
 
         }
